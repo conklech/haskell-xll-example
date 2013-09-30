@@ -1,0 +1,4 @@
+EXPORTS
+ adder  = adder@8
+ xlAutoOpen
+ xlAutoClose
